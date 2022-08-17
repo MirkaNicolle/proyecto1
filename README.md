@@ -24,7 +24,7 @@ Caracteristicas del chat:
 
 Paso 1:
 ```
-pip install -r requirements.txt
+pip install -r librerias.txt
 ```
 
 Paso 2:
