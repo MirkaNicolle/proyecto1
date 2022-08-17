@@ -1,6 +1,6 @@
 # Proyecto 1
 
-## Chat usando un protocolo existente (XMPP)
+### Chat usando un protocolo existente (XMPP)
 
 Caracteristicas del chat:
 
